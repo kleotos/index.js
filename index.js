@@ -1,3 +1,2 @@
-var element = document.createElement('p');
-element.textContent = "Hello World!";
-document.body.appendChild(element);
+// var age = prompt ("How old are you");
+  console.log (22);
